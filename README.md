@@ -1,4 +1,4 @@
-# Pacific SIDS IXP Toolkit
+# Pacific Islands: SIDS IXP Toolkit
 ## Implementation Framework for Samoa and Timor-Leste
 
 ---
